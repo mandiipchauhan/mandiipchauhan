@@ -6,7 +6,7 @@ Software Engineer with a strong focus on building scalable, user-centric systems
 ---
 
 ### 🚀 Featured Project
-🌐 **The Last Code Bender:** [Live Demo](https://the-last-code-bender.vercel.app)  
+ 
 📂 **Source Code:** [GitHub Repository](https://github.com/mandiipchauhan/the-last-code-bender)
 
 ---
@@ -21,8 +21,7 @@ Software Engineer with a strong focus on building scalable, user-centric systems
 
 ---
 
-![Mandeep's Stats](https://github-readme-stats.vercel.app/api?username=mandiipchauhan&show_icons=true&theme=dark&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandiipchauhan&layout=compact&theme=dark&hide_border=true)
+
 
 
 
