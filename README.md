@@ -21,12 +21,8 @@ Software Engineer with a strong focus on building scalable, user-centric systems
 
 ---
 
-### 📈 GitHub Stats
-![Mandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandiipchauhan&show_icons=true&theme=dark&hide_border=true&count_private=true)  
+![Mandeep's Stats](https://github-readme-stats.vercel.app/api?username=mandiipchauhan&show_icons=true&theme=dark&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandiipchauhan&layout=compact&theme=dark&hide_border=true)
-
-
-
 
 
 
